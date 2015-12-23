@@ -1,2 +1,2 @@
 # utils.rb
-Linux utils written in Ruby using simple_cli primitives. These tools weren't written to be used day to day. They were written to test simple_cli
+GNU Coreutils written in Ruby. This project is mainly for testing the Cinchcli project. This project is not for day to day usage as it might not pass all GNU Coreutils tests. 
